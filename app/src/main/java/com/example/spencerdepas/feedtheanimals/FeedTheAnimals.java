@@ -7,6 +7,9 @@ import java.util.Random;
  */
 public class FeedTheAnimals {
 
+    //MODEL 
+
+
     FeedTheAnimals(){
 
     }
